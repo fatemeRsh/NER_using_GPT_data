@@ -16,6 +16,5 @@ The project consists of the following components:
 3. Result Comparison: Compare the results obtained from each library and analyze their performance. Identify the strengths and weaknesses of each library in the context of Reddit comment NER.
 
 4. Visualization: Generate plots or visualizations to showcase the distribution of different entities found in the comments. Compare the entity recognition performance across libraries.
-
-![Screenshot from 2024-01-19 13-31-20](https://github.com/fatemeRsh/NER_using_GPT_data/assets/30748282/b75cedfb-f174-4e70-905b-07ef3b4269d6)
-![Screenshot from 2024-01-19 13-31-41](https://github.com/fatemeRsh/NER_using_GPT_data/assets/30748282/dd813259-bf93-4059-82da-16cc3b3236fd)
+![Screenshot from 2024-01-19 13-38-30](https://github.com/fatemeRsh/NER_using_GPT_data/assets/30748282/4bdd0a72-5f11-473d-8c7c-8cd3c981dd3f)
+![Screenshot from 2024-01-19 13-38-44](https://github.com/fatemeRsh/NER_using_GPT_data/assets/30748282/9deb26d0-3056-4b34-af35-42f865a67922)
